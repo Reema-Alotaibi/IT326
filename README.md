@@ -57,7 +57,6 @@ The dataset is included in the `Dataset` folder.
 This project was collaboratively developed by:
 
 * **Aljawharah Alwabel**
-* **Ghada Alqhtani**
 * **Ruba Alshammari**
 * **Norah Alwasil**
 * **Reema Alotaibi**
